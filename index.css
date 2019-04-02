@@ -1,0 +1,75 @@
+body{
+     background-image: url(hase.jpg);
+     background-attachment: fixed;
+     background-position: cover;
+     background-size: 100% 100%;
+     overflow: hidden;
+     text-shadow: 2px 2px 2px 2px black;
+     letter-spacing: 2px;
+     font-family: 'Anton', sans-serif;
+}
+
+div{
+    
+     width: 300px;
+     height: 270px;
+     padding: 30px;
+     color: rgb(179, 83, 83);
+     text-align: center;
+     line-height: 50px;
+     margin-left: 200px;
+     font-size: 20px;
+    
+}
+
+
+div p{
+     font-size: 20px;
+}
+
+
+div h4{
+     font-size: 20px;
+}
+
+
+button{
+     margin-left: 320px;
+     margin-top: 160px;
+     border-radius: 15px;
+     background: rgba(179, 109, 109, 0.589);
+     width: 100px;
+     height: 30px;
+     outline: none;
+     color: rgb(177, 11, 11);
+     display: inline-block;
+     box-shadow: 3px 3px rgba(235, 70, 70, 0.74);
+    
+}
+
+
+button:hover{
+     width: 130px;
+     height: 40px;
+     border-radius: 20px;
+     font-size: 20px;
+     transition: 0.7s;
+     box-shadow: 5px 5px rgba(235, 70, 70, 0.74);
+    
+}
+
+#DCI{
+     text-align: right;
+     margin-right: 30px;
+     margin-bottom: 50px;
+     color: rgba(216, 129, 29, 0.815);
+     font-size: 40px;
+    
+
+}
+
+a{
+     text-decoration: none;
+     color: rgb(177, 11, 11);
+}
+
